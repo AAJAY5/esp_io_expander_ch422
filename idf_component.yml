@@ -1,0 +1,6 @@
+dependencies:
+  espressif/esp_io_expander:
+    version: ^1.2.0
+  idf: '>=5.2'
+description: ESP IO Expander - CH422 (WCH) wrapper compatible with esp_io_expander API
+version: 1.0.0
